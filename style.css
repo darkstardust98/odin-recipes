@@ -1,0 +1,37 @@
+*{
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    text-align: center;
+}
+
+ol{
+    color: white;
+    text-align: left;
+}
+
+ul{
+    color: white;
+    text-align: left;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    text-decoration: wavy;
+}
