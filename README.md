@@ -23,3 +23,9 @@ NOTE 2
 I just added margin, paddig and borders to the website and thanks to TOP I am learning how to structure a website stylistically.
 
 I have been making websites with shopify for some years now, but finally understanding how everything works under the hood is really exciting.
+
+
+NOTE 3 
+
+I just added the flexbox section with flavours, but I still find it a bit confusing. I'll try my best to exercise to get better.
+I am having fun with the styling part and trying different color combinations. 
