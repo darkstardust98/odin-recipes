@@ -68,6 +68,6 @@ strong{
     /* flex-grow: 1;
     flex-shrink: 1;
     flex-basis: 20%; */
-    flex: auto;
+    /* flex: auto; */
     justify-content: center; 
 }
